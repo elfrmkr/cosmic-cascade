@@ -1,0 +1,21 @@
+{
+  "name": "cosmic-cascade",
+  "displayName": "Cosmic Cascade",
+  "description": "Cosmic Cascade is a dark color theme that is inspired by the awe-inspiring beauty of space. This color palette features deep, rich colors with hints of vibrant hues that resemble the vastness of the universe.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cosmic Cascade",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cosmic Cascade-color-theme.json"
+      }
+    ]
+  }
+}
