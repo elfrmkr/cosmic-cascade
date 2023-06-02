@@ -228,21 +228,19 @@
 		"notifications.border": "#191830", // Notification border color separating from other notifications in the Notification Center.
 		"notificationLink.foreground": "#FFFFFF", // Notification links foreground color.
 
-		// Panel.
-		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_panel-colors
-		"panel.background": "#15152b",
-		"panel.border": "#FAD000",
-		"panelTitle.activeBorder": "#FAD000",
-		"panelTitle.activeForeground": "#FAD000",
-		"panelTitle.inactiveForeground": "#89888d",
+		// Panel
+		"panel.background": "#15152B",
+		"panel.border": "#ef43ffe5",
+		"panelTitle.activeBorder": "#e043ff",
+		"panelTitle.activeForeground": "#fffbfb",
+		"panelTitle.inactiveForeground": "#89888D",
 
 		// Peek View Colors.
-		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_peek-view-colors
-		"peekView.border": "#FAD000",
-		"peekViewEditor.background": "#15152b",
+		"peekView.border": "#6943FF",
+		"peekViewEditor.background": "#15152B",
 		"peekViewEditor.matchHighlightBackground": "#19354900",
 		"peekViewEditorGutter.background": "#191935",
-		"peekViewResult.background": "#15152b",
+		"peekViewResult.background": "#15152B",
 		"peekViewResult.fileForeground": "#AAA",
 		"peekViewResult.lineForeground": "#FFFFFF",
 		"peekViewResult.matchHighlightBackground": "#191830",
@@ -250,7 +248,7 @@
 		"peekViewResult.selectionForeground": "#FFFFFF",
 		"peekViewTitle.background": "#1F1F41",
 		"peekViewTitleDescription.foreground": "#AAA",
-		"peekViewTitleLabel.foreground": "#FAD000",
+		"peekViewTitleLabel.foreground": "#6943FF",
 
 		// Quick Picker.
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_quick-picker
