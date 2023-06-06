@@ -3,15 +3,14 @@
 	"type": "dark",
 	"colors": {
 		// Activity Bar.
-		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_activity-bar
-		"activityBar.background": "#292835",
-		"activityBar.border": "#131327",
-		"activityBar.foreground": "#FFFFFF",
-		"activityBar.inactiveForeground": "#89888d",
-		"activityBarBadge.background": "#d875ff",
-		"activityBarBadge.foreground": "#ffffff",
-		"activityBar.activeBorder": "#292835",
-		"activityBar.activeBackground": "#343842",
+		"activityBar.background": "#252536", // A darker shade of blue reflecting the depth of space.
+		"activityBar.border": "#000000de", // A deep purple color representing the cosmic void.
+		"activityBar.foreground": "#FFFFFF", // Pure white color for visibility and contrast.
+		"activityBar.inactiveForeground": "#89888d", // Light gray color for inactive elements.
+		"activityBarBadge.background": "#f292ff", // A vibrant pinkish-purple color resembling a distant nebula.
+		"activityBarBadge.foreground": "#ffffff", // Pure white color for visibility and contrast.
+		"activityBar.activeBorder": "#f292ff", // Same as the activityBar.background for consistency.
+		"activityBar.activeBackground": "#30304b", // A slightly lighter shade of blue for the active item in the activity bar.
 
 		// Debug Icons.
 	
