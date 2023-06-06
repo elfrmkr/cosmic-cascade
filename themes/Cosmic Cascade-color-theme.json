@@ -16,16 +16,14 @@
 	
 		"debugIcon.restartForeground": "#3AD900",
 		"debugIcon.stopForeground": "#EC3A37F5",
-
 		// Sidebar.
-		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_side-bar
-		"sideBar.background": "#1e1d29",
-		"sideBar.border": "#1e1d29",
-		"sideBar.foreground": "#e9e8eb",
-		"sideBarSectionHeader.background": "#343842",
-		"sideBarSectionHeader.foreground": "#e9e8eb",
-		"sideBarTitle.foreground": "#89888d",
-		"sideBarSectionHeader.border": "#15152b",
+		"sideBar.background": "#29293a", // A deep blue color reflecting the vastness of space.
+		"sideBar.border": "#1e1d29", // Same as the sideBar.background for consistency.
+		"sideBar.foreground": "#e9e8eb", // Light gray color for visibility and contrast.
+		"sideBarSectionHeader.background": "#30304b", // A darker shade of blue for section headers.
+		"sideBarSectionHeader.foreground": "#e9e8eb", // Light gray color for visibility and contrast.
+		"sideBarTitle.foreground": "#89888d", // Light gray color for visibility and contrast.
+		"sideBarSectionHeader.border": "#131327", // A deep purple color for section header borders.
 
 		// Badge.
 		// https://code.visualstudio.com/docs/getstarted/theme-color-reference#_badge
